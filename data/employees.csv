@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,email,department_id,hire_date,salary,job_title,manager_id
+1,John,Doe,john.doe@email.com,101,2017-05-16,55000,Sales Executive,4
+2,Jane,Smith,jane.smith@email.com,102,2018-03-21,60000,Software Engineer,6
+3,Emily,Jones,emily.jones@email.com,101,2019-07-10,52000,Sales Associate,1
+4,Michael,Brown,michael.brown@email.com,103,2016-11-05,75000,HR Manager,
+5,Linda,White,linda.white@email.com,102,2020-01-15,58000,QA Analyst,6
+6,Robert,Green,robert.green@email.com,102,2015-09-02,90000,Engineering Manager,
+7,Susan,Black,susan.black@email.com,101,2018-12-22,49000,Sales Associate,1
+8,David,Wilson,david.wilson@email.com,104,2019-04-30,67000,Accountant,9
+9,Patricia,Moore,patricia.moore@email.com,104,2015-06-18,95000,Finance Manager,
+10,James,Taylor,james.taylor@email.com,103,2021-02-10,43000,HR Assistant,4

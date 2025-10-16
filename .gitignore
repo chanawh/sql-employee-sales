@@ -1,0 +1,46 @@
+# Ignore Python virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+
+# Ignore SQLite and other database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore test/output data
+output/
+*.out
+
+# Ignore coverage reports
+htmlcov/
+.coverage
+dist/
+build/
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore node modules (if using JS/TS)
+node_modules/

@@ -1,0 +1,16 @@
+sale_id,employee_id,sale_date,sale_amount,product,region
+1,1,2021-01-10,1200,Software,East
+2,3,2021-01-15,1500,Hardware,East
+3,1,2021-02-01,1800,Software,East
+4,7,2021-02-05,950,Service,West
+5,1,2021-03-12,1100,Hardware,East
+6,3,2021-03-15,1700,Software,East
+7,7,2021-04-01,1300,Service,West
+8,1,2021-04-10,1600,Software,East
+9,3,2021-05-08,1400,Hardware,East
+10,1,2021-05-20,1550,Software,East
+11,7,2021-06-05,1200,Service,West
+12,3,2021-06-15,1300,Hardware,East
+13,1,2021-07-10,1700,Software,East
+14,7,2021-07-20,950,Service,West
+15,3,2021-08-01,1800,Hardware,East

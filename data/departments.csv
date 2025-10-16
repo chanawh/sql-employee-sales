@@ -1,0 +1,5 @@
+department_id,department_name,manager_id,location,budget
+101,Sales,1,New York,250000
+102,Engineering,6,San Francisco,500000
+103,HR,4,Chicago,120000
+104,Finance,9,Boston,200000
